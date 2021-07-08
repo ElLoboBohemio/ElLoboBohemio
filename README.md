@@ -15,8 +15,8 @@
 |     :---:      |     :---:      |     :---:      |
 | VS Code | CSS3 | Javascript |
 | HTML5 | Sass | JSON (API) |
-| Git & Github | Bootstrap 5 | npm |
-| Webpack | Tailwind CSS | GSAP (JS Animations) |
+| Git & Github | Bootstrap 5 | GSAP (JS Animations) |
+| Webpack | Tailwind CSS | npm |
 
 <br />
 
