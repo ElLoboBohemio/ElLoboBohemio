@@ -11,8 +11,8 @@
 
 ### Languages and Tools:
 
-| Languages and Tools: |
-|     :---:      |
+| Languages and Tools: | Languages and Tools: | Languages and Tools: |
+|     :---:      |     :---:      |     :---:      |
 | VS Code | CSS3 | Javascript |
 | HTML5 | Sass | JSON (API) |
 | Git & Github | Bootstrap 5 | npm |
@@ -20,8 +20,8 @@
 
 <br />
 
-| Design Tools: |
-|     :---:      |
+| Design Tools: | Design Tools: | Design Tools: |
+|     :---:      |     :---:      |     :---:      |
 | Photoshop (Gimp) | Ilustrator (Inkscape) | Figma |
 
 
