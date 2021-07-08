@@ -2,6 +2,8 @@
 
 ## I'm a bilingual (spanish - english) Front-Developer!!
 
+<br />
+
 - 🔭 I made my [portafolio][portafolio] by taking a challenge from devChallenge.io
 - 🌱 I’m currently learning React.js
 - 📫 You can reach me by [Twitter][twitter]
