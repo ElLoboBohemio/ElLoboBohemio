@@ -11,9 +11,9 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-| Tools | Styles | Programming |
+| **Tools | Styles | Programming** |
 |     :---:      |     :---:      |     :---:      |
 | VS Code | CSS3 | Javascript |
 | HTML5 | Sass | JSON (API) |
@@ -22,9 +22,9 @@
 
 <br />
 
-### Desing Tools:
+## Desing Tools:
 
-| Image Editing | Vector Drawing | UI Software |
+| **Image Editing | Vector Drawing | UI Software** |
 |     :---:      |     :---:      |     :---:      |
 | Photoshop (Gimp) | Ilustrator (Inkscape) | Figma |
 
