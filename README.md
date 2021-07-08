@@ -11,23 +11,19 @@
 
 ### Languages and Tools:
 
-- VS Code
-- HTML5
-- CSS3
-- Sass
-- Bootstrap 5
-- Javascript
-- JSON (API)
-- Git
-- Github
-- Webpack
-- npm
+| Languages and Tools: |
+|     :---:      |
+| VS Code | CSS3 | Javascript |
+| HTML5 | Sass | JSON (API) |
+| Git & Github | Bootstrap 5 | npm |
+| Webpack | Tailwind CSS | GSAP (JS Animations) |
 
-- GSAP (JS Animations)
-- Photoshop (Gimp)
-- Ilustrator (Inkscape)
-- Figma
-- 
+<br />
+
+| Design Tools: |
+|     :---:      |
+| Photoshop (Gimp) | Ilustrator (Inkscape) | Figma |
+
 
 <br />
 
