@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I made my [portafolio][portafolio] by taking a challenge from devChallenge.io
+- 🔭 My last proyect was [Terapia Física][TF] for learning React.js
 - 🌱 I’m currently learning React.js
 - 📫 You can reach me by [Twitter][twitter]
 - ⚡ Fun fact: I’m a lifelong learner.
@@ -31,5 +31,5 @@
 
 <br />
 
-[portafolio]: https://github.com/ElLoboBohemio/Portafolio-devChallenge
+[TF]: https://github.com/ElLoboBohemio/Terapia-Fisica
 [twitter]: https://twitter.com/BohemioLobo
