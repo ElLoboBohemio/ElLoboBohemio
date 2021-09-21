@@ -15,10 +15,12 @@
 
 | **Tools** | **Styles** | **Programming** |
 |     :---:      |     :---:      |     :---:      |
-| VS Code | CSS3 | Javascript |
-| HTML5 | Sass | JSON (API) |
-| Git & Github | Bootstrap 5 | GSAP (JS Animations) |
+| HTML5 | CSS3 | Javascript |
+| Git & Github | Tailwind CSS | React.js |
+| Express | Bootstrap 5 | Node.js |
+| VS Code | Sass | JSON (API) |
 | Webpack | BEM | npm |
+
 
 <br />
 
