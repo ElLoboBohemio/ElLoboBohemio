@@ -4,9 +4,9 @@
 
 <br />
 
-- 🔭 My last proyect was [Terapia Física][TF] for learning React.js
-- 🌱 I’m currently learning React.js
-- 📫 You can reach me by [Twitter][twitter]
+- 🔭 My last proyect was my [Portafolio][Last Project] using Next.js
+- 🌱 I’m currently learning Redux
+- 📫 You can reach me by [Twitter][Twitter]
 - ⚡ Fun fact: I’m a lifelong learner.
 
 <br />
@@ -16,11 +16,10 @@
 | **Tools** | **Styles** | **Programming** |
 |     :---:      |     :---:      |     :---:      |
 | HTML5 | CSS3 | Javascript |
-| Git & Github | Tailwind CSS | React.js |
-| Express | Bootstrap 5 | Node.js |
-| VS Code | Sass | JSON (API) |
-| Webpack | BEM | npm |
-
+| Git | Sass | React.js |
+| Github | Bootstrap 5 | Next.js |
+| VS Code | Tailwind CSS | npm |
+| Webpack | BEM | Node.js |
 
 <br />
 
@@ -30,8 +29,7 @@
 |     :---:      |     :---:      |     :---:      |
 | Photoshop (Gimp) | Ilustrator (Inkscape) | Figma |
 
-
 <br />
 
-[TF]: https://github.com/ElLoboBohemio/Terapia-Fisica
-[twitter]: https://twitter.com/BohemioLobo
+[Last Project]: https://github.com/ElLoboBohemio/Portafolio
+[Twitter]: https://twitter.com/BohemioLobo
