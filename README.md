@@ -25,9 +25,9 @@
 
 ## Desing Tools:
 
-| **Image Editing** | **Vector Drawing** | **UI Software** |
+| **Image Editing** | **Vector Drawing** | **UI Software** | **Video Editing** |
 |     :---:      |     :---:      |     :---:      |
-| Photoshop (Gimp) | Ilustrator (Inkscape) | Figma |
+| Photoshop (Gimp) | Ilustrator (Inkscape) | Figma | DaVinci Resolve |
 
 <br />
 
