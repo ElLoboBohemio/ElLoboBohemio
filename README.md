@@ -1,4 +1,4 @@
-### Hi there, I'm Josué - aka ElLoboBohemio 👋
+### Hi there, I'm Josué Lobo👋
 
 ## I'm a bilingual (spanish - english) Front-Developer!!
 
