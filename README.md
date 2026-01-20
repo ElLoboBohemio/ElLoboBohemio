@@ -9,7 +9,7 @@ I specialize in bridging the gap between medical science and software engineerin
 - 🔭 My last project was my [Portfolio][Last Project] using Next.js.
 - 🌱 I’m currently learning **Excel Macros** and **Advanced SQL** for healthcare data management.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/josu%C3%A9-lobo/).
-- ⚡ Fun fact: I graduated as **Valedictorian** (highest GPA) of my Physical Therapy generation at UCR.
+- ⚡ **Fun fact:** I started online learning to build technical tools that **complement and enhance** my medical expertise, aiming to solve real-world healthcare problems through technology.
 
 <br />
 
